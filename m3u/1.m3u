@@ -1,952 +1,710 @@
-﻿#EXTM3U
-#EXTINF:-1,beIN SPORTS MAX 1 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22157.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD ARB
-http://clientportal.link:80/live/Petko/123456/22158.ts
-#EXTINF:-1,beIN SPORTS MAX 1 SD ARB
-http://clientportal.link:80/live/Petko/123456/22159.ts
-#EXTINF:-1,beIN SPORTS MAX 2 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22160.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD ARB
-http://clientportal.link:80/live/Petko/123456/22161.ts
-#EXTINF:-1,beIN SPORTS MAX 2 SD ARB
-http://clientportal.link:80/live/Petko/123456/22162.ts
-#EXTINF:-1,beIN SPORTS MAX 3 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22163.ts
-#EXTINF:-1,beIN SPORTS MAX 3 HD ARB
-http://clientportal.link:80/live/Petko/123456/22164.ts
-#EXTINF:-1,beIN SPORTS MAX 3 SD ARB
-http://clientportal.link:80/live/Petko/123456/22165.ts
-#EXTINF:-1,beIN SPORTS MAX 4 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22166.ts
-#EXTINF:-1,beIN SPORTS MAX 4 HD ARB
-http://clientportal.link:80/live/Petko/123456/22167.ts
-#EXTINF:-1,beIN SPORTS MAX 4 SD ARB
-http://clientportal.link:80/live/Petko/123456/22168.ts
-#EXTINF:-1,OSN WWE Network HD AE
-http://clientportal.link:80/live/Petko/123456/16403.ts
-#EXTINF:-1,SuperSport 1 HD AL
-http://clientportal.link:80/live/Petko/123456/4198.ts
-#EXTINF:-1,SuperSport 2 HD AL
-http://clientportal.link:80/live/Petko/123456/4199.ts
-#EXTINF:-1,SuperSport 3 HD AL
-http://clientportal.link:80/live/Petko/123456/4200.ts
-#EXTINF:-1,SuperSport 4 HD AL
-http://clientportal.link:80/live/Petko/123456/4201.ts
-#EXTINF:-1,SuperSport 5 HD AL
-http://clientportal.link:80/live/Petko/123456/9373.ts
-#EXTINF:-1,SuperSport Kosova 1 AL
-http://clientportal.link:80/live/Petko/123456/3822.ts
-#EXTINF:-1,SuperSport Kosova 2 AL
-http://clientportal.link:80/live/Petko/123456/3823.ts
-#EXTINF:-1,Tring Sport News HD AL
-http://clientportal.link:80/live/Petko/123456/8077.ts
-#EXTINF:-1,SuperSport 1 FHD AL
-http://clientportal.link:80/live/Petko/123456/22807.ts
-#EXTINF:-1,SuperSport 2 FHD AL
-http://clientportal.link:80/live/Petko/123456/22808.ts
-#EXTINF:-1,SuperSport 3 FHD AL
-http://clientportal.link:80/live/Petko/123456/22809.ts
-#EXTINF:-1,SuperSport 4 FHD AL
-http://clientportal.link:80/live/Petko/123456/22810.ts
-#EXTINF:-1,SuperSport 5 FHD AL
-http://clientportal.link:80/live/Petko/123456/22811.ts
-#EXTINF:-1,SuperSport 6 FHD AL
-http://clientportal.link:80/live/Petko/123456/22812.ts
-#EXTINF:-1,SuperSport 7 FHD AL
-http://clientportal.link:80/live/Petko/123456/22813.ts
-#EXTINF:-1,SuperSport Kosova 1 FHD AL
-http://clientportal.link:80/live/Petko/123456/22804.ts
-#EXTINF:-1,SuperSport Kosova 2 FHD AL
-http://clientportal.link:80/live/Petko/123456/22805.ts
-#EXTINF:-1,SuperSport Kosova 3 FHD AL
-http://clientportal.link:80/live/Petko/123456/22806.ts
-#EXTINF:-1,OSN Sports Cricket HD AE
-http://clientportal.link:80/live/Petko/123456/19957.ts
-#EXTINF:-1,OSN Sports 1 Action HD AE
-http://clientportal.link:80/live/Petko/123456/13728.ts
-#EXTINF:-1,OSN Sports 2 Action HD AE
-http://clientportal.link:80/live/Petko/123456/13729.ts
-#EXTINF:-1,beIN SPORTS 1 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18277.ts
-#EXTINF:-1,beIN SPORTS 1 HD ARB
-http://clientportal.link:80/live/Petko/123456/14980.ts
-#EXTINF:-1,beIN SPORTS 1 SD ARB
-http://clientportal.link:80/live/Petko/123456/14981.ts
-#EXTINF:-1,beIN SPORTS 2 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18278.ts
-#EXTINF:-1,beIN SPORTS 2 HD ARB
-http://clientportal.link:80/live/Petko/123456/14982.ts
-#EXTINF:-1,beIN SPORTS 2 SD ARB
-http://clientportal.link:80/live/Petko/123456/14983.ts
-#EXTINF:-1,beIN SPORTS 3 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18279.ts
-#EXTINF:-1,beIN SPORTS 3 HD ARB
-http://clientportal.link:80/live/Petko/123456/14984.ts
-#EXTINF:-1,beIN SPORTS 3 SD ARB
-http://clientportal.link:80/live/Petko/123456/14985.ts
-#EXTINF:-1,beIN SPORTS 4 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18280.ts
-#EXTINF:-1,beIN SPORTS 4 HD ARB
-http://clientportal.link:80/live/Petko/123456/14986.ts
-#EXTINF:-1,beIN SPORTS 4 SD ARB
-http://clientportal.link:80/live/Petko/123456/14987.ts
-#EXTINF:-1,beIN SPORTS 5 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18281.ts
-#EXTINF:-1,beIN SPORTS 5 HD ARB
-http://clientportal.link:80/live/Petko/123456/14988.ts
-#EXTINF:-1,beIN SPORTS 5 SD ARB
-http://clientportal.link:80/live/Petko/123456/14989.ts
-#EXTINF:-1,beIN SPORTS 6 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18282.ts
-#EXTINF:-1,beIN SPORTS 6 HD ARB
-http://clientportal.link:80/live/Petko/123456/14990.ts
-#EXTINF:-1,beIN SPORTS 6 SD ARB
-http://clientportal.link:80/live/Petko/123456/14991.ts
-#EXTINF:-1,beIN SPORTS 7 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18283.ts
-#EXTINF:-1,beIN SPORTS 7 HD ARB
-http://clientportal.link:80/live/Petko/123456/14992.ts
-#EXTINF:-1,beIN SPORTS 7 SD ARB
-http://clientportal.link:80/live/Petko/123456/14993.ts
-#EXTINF:-1,beIN SPORTS 8 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18284.ts
-#EXTINF:-1,beIN SPORTS 8 HD ARB
-http://clientportal.link:80/live/Petko/123456/14994.ts
-#EXTINF:-1,beIN SPORTS 8 SD ARB
-http://clientportal.link:80/live/Petko/123456/14995.ts
-#EXTINF:-1,beIN SPORTS 9 HD ARB
-http://clientportal.link:80/live/Petko/123456/14996.ts
-#EXTINF:-1,beIN SPORTS 9 SD ARB
-http://clientportal.link:80/live/Petko/123456/14997.ts
-#EXTINF:-1,beIN SPORTS 10 HD ARB
-http://clientportal.link:80/live/Petko/123456/14998.ts
-#EXTINF:-1,beIN SPORTS 10 SD ARB
-http://clientportal.link:80/live/Petko/123456/14999.ts
-#EXTINF:-1,beIN SPORTS 11 FHD ARB
-http://clientportal.link:80/live/Petko/123456/15000.ts
-#EXTINF:-1,beIN SPORTS 12 SD ARB
-http://clientportal.link:80/live/Petko/123456/15001.ts
-#EXTINF:-1,beIN SPORTS 1 HD FR
-http://clientportal.link:80/live/Petko/123456/14977.ts
-#EXTINF:-1,beIN SPORTS 1 FR
-http://clientportal.link:80/live/Petko/123456/5522.ts
-#EXTINF:-1,beIN SPORTS 2 FHD FR
-http://clientportal.link:80/live/Petko/123456/14978.ts
-#EXTINF:-1,beIN SPORTS 2 HD FR
-http://clientportal.link:80/live/Petko/123456/15637.ts
-#EXTINF:-1,beIN SPORTS 3 FHD FR
-http://clientportal.link:80/live/Petko/123456/4477.ts
-#EXTINF:-1,beIN SPORTS 3 HD FR
-http://clientportal.link:80/live/Petko/123456/14979.ts
-#EXTINF:-1,beIN SPORTS MAX 4 FHD FR
-http://clientportal.link:80/live/Petko/123456/18218.ts
-#EXTINF:-1,beIN SPORTS MAX 5 FHD FR
-http://clientportal.link:80/live/Petko/123456/18219.ts
-#EXTINF:-1,beIN SPORTS MAX 6 FHD FR
-http://clientportal.link:80/live/Petko/123456/18220.ts
-#EXTINF:-1,beIN SPORTS MAX 7 FHD FR
-http://clientportal.link:80/live/Petko/123456/18221.ts
-#EXTINF:-1,beIN SPORTS MAX 8 FHD FR
-http://clientportal.link:80/live/Petko/123456/18222.ts
-#EXTINF:-1,beIN SPORTS MAX 10 FHD FR
-http://clientportal.link:80/live/Petko/123456/18224.ts
-#EXTINF:-1,beIN SPORTS MAX 9 FHD FR
-http://clientportal.link:80/live/Petko/123456/18223.ts
-#EXTINF:-1,beIN SPORTS 1 HD TR
-http://clientportal.link:80/live/Petko/123456/15719.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://clientportal.link:80/live/Petko/123456/15943.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://clientportal.link:80/live/Petko/123456/6413.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://clientportal.link:80/live/Petko/123456/6414.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://clientportal.link:80/live/Petko/123456/15721.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://clientportal.link:80/live/Petko/123456/15722.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://clientportal.link:80/live/Petko/123456/13665.ts
-#EXTINF:-1,beIN SPORTS 1 FHD TR
-http://clientportal.link:80/live/Petko/123456/17739.ts
-#EXTINF:-1,beIN SPORTS 2 FHD TR
-http://clientportal.link:80/live/Petko/123456/17740.ts
-#EXTINF:-1,beIN SPORTS 3 FHD TR
-http://clientportal.link:80/live/Petko/123456/17741.ts
-#EXTINF:-1,beIN SPORTS 4 FHD TR
-http://clientportal.link:80/live/Petko/123456/19038.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD  TR
-http://clientportal.link:80/live/Petko/123456/15723.ts
-#EXTINF:-1,beIN SPORTS HABER HD TR
-http://clientportal.link:80/live/Petko/123456/17896.ts
-#EXTINF:-1,beIN SPORTS ES
-http://clientportal.link:80/live/Petko/123456/9407.ts
-#EXTINF:-1,beIN SPORTS HD ES
-http://clientportal.link:80/live/Petko/123456/12729.ts
-#EXTINF:-1,beIN SPORTS Laliga HD ES
-http://clientportal.link:80/live/Petko/123456/12719.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD ES
-http://clientportal.link:80/live/Petko/123456/13662.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD ES
-http://clientportal.link:80/live/Petko/123456/13663.ts
-#EXTINF:-1,beIN SPORTS US
-http://clientportal.link:80/live/Petko/123456/9013.ts
-#EXTINF:-1,beIN SPORTS HD US
-http://clientportal.link:80/live/Petko/123456/15002.ts
-#EXTINF:-1,beIN SPORTS 1 max  [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21945.ts
-#EXTINF:-1,beIN SPORTS 2 max [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21946.ts
-#EXTINF:-1,beIN SPORTS 3 max HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21947.ts
-#EXTINF:-1,Sport Klub 1 HD HR
-http://clientportal.link:80/live/Petko/123456/17252.ts
-#EXTINF:-1,Sport Klub 2 FHD HR
-http://clientportal.link:80/live/Petko/123456/17254.ts
-#EXTINF:-1,Sport Klub 4 HR
-http://clientportal.link:80/live/Petko/123456/17249.ts
-#EXTINF:-1,Sport Klub 5 HR
-http://clientportal.link:80/live/Petko/123456/17250.ts
-#EXTINF:-1,Sport Klub 6 HR
-http://clientportal.link:80/live/Petko/123456/17251.ts
-#EXTINF:-1,Eurosport 1 RS
-http://clientportal.link:80/live/Petko/123456/1443.ts
-#EXTINF:-1,Eurosport 2 RS
-http://clientportal.link:80/live/Petko/123456/1444.ts
-#EXTINF:-1,Arena Sport 2 FHD HR
-http://clientportal.link:80/live/Petko/123456/17914.ts
-#EXTINF:-1,Arena Sport 3 HD HR
-http://clientportal.link:80/live/Petko/123456/17916.ts
-#EXTINF:-1,Arena Sport 4 FHD HR
-http://clientportal.link:80/live/Petko/123456/17915.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://clientportal.link:80/live/Petko/123456/1436.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://clientportal.link:80/live/Petko/123456/1437.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://clientportal.link:80/live/Petko/123456/1438.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://clientportal.link:80/live/Petko/123456/1439.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://clientportal.link:80/live/Petko/123456/13827.ts
-#EXTINF:-1,Arena Sport 6 HD HR
-http://clientportal.link:80/live/Petko/123456/13828.ts
-#EXTINF:-1,Arena Sport 1 RS
-http://clientportal.link:80/live/Petko/123456/3182.ts
-#EXTINF:-1,Arena Sport 2 HD RS
-http://clientportal.link:80/live/Petko/123456/3183.ts
-#EXTINF:-1,Arena Sport 3 RS
-http://clientportal.link:80/live/Petko/123456/3184.ts
-#EXTINF:-1,Arena Sport 4 RS
-http://clientportal.link:80/live/Petko/123456/3185.ts
-#EXTINF:-1,Arena Sport 5 RS
-http://clientportal.link:80/live/Petko/123456/3186.ts
-#EXTINF:-1,Sport Klub 1 RS
-http://clientportal.link:80/live/Petko/123456/13832.ts
-#EXTINF:-1,Sport Klub 2 HR
-http://clientportal.link:80/live/Petko/123456/13833.ts
-#EXTINF:-1,Sport Klub 3 HR
-http://clientportal.link:80/live/Petko/123456/13834.ts
-#EXTINF:-1,Sport Klub 4 RS
-http://clientportal.link:80/live/Petko/123456/13829.ts
-#EXTINF:-1,Sport Klub 5 RS
-http://clientportal.link:80/live/Petko/123456/13830.ts
-#EXTINF:-1,Sport Klub 6 RS
-http://clientportal.link:80/live/Petko/123456/13831.ts
-#EXTINF:-1,Sport Klub 1 HD RS
-http://clientportal.link:80/live/Petko/123456/1440.ts
-#EXTINF:-1,Sport Klub 2 RS
-http://clientportal.link:80/live/Petko/123456/1441.ts
-#EXTINF:-1,Sport Klub 3 HD RS
-http://clientportal.link:80/live/Petko/123456/1442.ts
-#EXTINF:-1,Canal+ Sport FHD FR
-http://clientportal.link:80/live/Petko/123456/2210.ts
-#EXTINF:-1,Canal+ Sport HD FR
-http://clientportal.link:80/live/Petko/123456/13149.ts
-#EXTINF:-1,Equidia Live HD FR
-http://clientportal.link:80/live/Petko/123456/13181.ts
-#EXTINF:-1,EuroNews English HD FR
-http://clientportal.link:80/live/Petko/123456/17301.ts
-#EXTINF:-1,Euronews FR
-http://clientportal.link:80/live/Petko/123456/3751.ts
-#EXTINF:-1,Eurosport 1 HD FR
-http://clientportal.link:80/live/Petko/123456/2013.ts
-#EXTINF:-1,Eurosport 2 HD FR
-http://clientportal.link:80/live/Petko/123456/7572.ts
-#EXTINF:-1,Extreme Sports Channel FR
-http://clientportal.link:80/live/Petko/123456/21904.ts
-#EXTINF:-1,Foot+ 24/24 HD FR
-http://clientportal.link:80/live/Petko/123456/17245.ts
-#EXTINF:-1,Infosport+ HD FR
-http://clientportal.link:80/live/Petko/123456/7571.ts
-#EXTINF:-1,L'Equipe 21 FR
-http://clientportal.link:80/live/Petko/123456/4468.ts
-#EXTINF:-1,SFR Sport 1 HD FR
-http://clientportal.link:80/live/Petko/123456/13182.ts
-#EXTINF:-1,SFR Sport 2 HD FR
-http://clientportal.link:80/live/Petko/123456/2251.ts
-#EXTINF:-1,SFR Sport 3 HD FR
-http://clientportal.link:80/live/Petko/123456/21522.ts
-#EXTINF:-1,SFR Sport 4 HD FR
-http://clientportal.link:80/live/Petko/123456/13148.ts
-#EXTINF:-1,SFR Sport 5 HD FR
-http://clientportal.link:80/live/Petko/123456/13151.ts
-#EXTINF:-1,OTE Sport 1 GR
-http://clientportal.link:80/live/Petko/123456/18240.ts
-#EXTINF:-1,OTE Sport 2 GR
-http://clientportal.link:80/live/Petko/123456/18241.ts
-#EXTINF:-1,OTE Sport 3 GR
-http://clientportal.link:80/live/Petko/123456/18242.ts
-#EXTINF:-1,beIN SPORTS 1 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21934.ts
-#EXTINF:-1,beIN SPORTS 1 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21916.ts
-#EXTINF:-1,beIN SPORTS 1 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21924.ts
-#EXTINF:-1,beIN SPORTS 2 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21917.ts
-#EXTINF:-1,beIN SPORTS 2 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21925.ts
-#EXTINF:-1,beIN SPORTS 2 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21935.ts
-#EXTINF:-1,beIN SPORTS 3 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21918.ts
-#EXTINF:-1,beIN SPORTS 3 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21926.ts
-#EXTINF:-1,beIN SPORTS 3 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21936.ts
-#EXTINF:-1,beIN SPORTS 4 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21919.ts
-#EXTINF:-1,beIN SPORTS 4 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21927.ts
-#EXTINF:-1,beIN SPORTS 4 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21937.ts
-#EXTINF:-1,beIN SPORTS 5 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21920.ts
-#EXTINF:-1,beIN SPORTS 5 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21928.ts
-#EXTINF:-1,beIN SPORTS 5 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21938.ts
-#EXTINF:-1,beIN SPORTS 6 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21921.ts
-#EXTINF:-1,beIN SPORTS 6 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21929.ts
-#EXTINF:-1,beIN SPORTS 6 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21939.ts
-#EXTINF:-1,beIN SPORTS 7 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21922.ts
-#EXTINF:-1,beIN SPORTS 7 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21930.ts
-#EXTINF:-1,beIN SPORTS 7 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21940.ts
-#EXTINF:-1,beIN SPORTS 8 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21923.ts
-#EXTINF:-1,beIN SPORTS 8 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21931.ts
-#EXTINF:-1,beIN SPORTS 8 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21941.ts
-#EXTINF:-1,beIN SPORTS 9 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21932.ts
-#EXTINF:-1,beIN SPORTS 9 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21942.ts
-#EXTINF:-1,beIN SPORTS 10 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21933.ts
-#EXTINF:-1,beIN SPORTS 10 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21943.ts
-#EXTINF:-1,beIN SPORTS 12 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21944.ts
-#EXTINF:-1,Algérie 3 (Thalitha TV) DZ
-http://clientportal.link:80/live/Petko/123456/21950.ts
-
-#EXTINF:-1,AL : SuperSport 6
-http://iptvfree1.com:6969/live/Belmira/123456/3403.ts
-#EXTINF:-1,AL : SuperSport 5
-http://iptvfree1.com:6969/live/Belmira/123456/3404.ts
-#EXTINF:-1,AL : SuperSport 4
-http://iptvfree1.com:6969/live/Belmira/123456/3405.ts
-#EXTINF:-1,AL : SuperSport 3
-http://iptvfree1.com:6969/live/Belmira/123456/3406.ts
-#EXTINF:-1,AL: Super Sport Kosovo 2 HD
-http://iptvfree1.com:6969/live/Belmira/123456/2127.ts
-#EXTINF:-1,AL: Super Sport Kosovo 1 HD
-http://iptvfree1.com:6969/live/Belmira/123456/2128.ts
-#EXTINF:-1,AL: Super Sport 2
-http://iptvfree1.com:6969/live/Belmira/123456/2129.ts
-#EXTINF:-1,AL: Super Sport 1
-http://iptvfree1.com:6969/live/Belmira/123456/2130.ts
-#EXTINF:-1,AL: Arena Sport 3 FHD Serbian
-http://iptvfree1.com:6969/live/Belmira/123456/18207.ts
-#EXTINF:-1,AL: Arena Sport 3 HR FHD (Ex-Yu)
-http://iptvfree1.com:6969/live/Belmira/123456/18206.ts
-#EXTINF:-1,AL: Arena Sport 4 HR FHD (Ex-Yu)
-http://iptvfree1.com:6969/live/Belmira/123456/18205.ts
-#EXTINF:-1,AL: Arena Sport 5 FHD Croatia
-http://iptvfree1.com:6969/live/Belmira/123456/18204.ts
-#EXTINF:-1,AL: Arena Sport 5 HR FHD (Ex-Yu)
-http://iptvfree1.com:6969/live/Belmira/123456/18203.ts
-#EXTINF:-1,AL: Super Sport 4 HD
-http://iptvfree1.com:6969/live/Belmira/123456/340.ts
-#EXTINF:-1,AL: Super Sport 3 HD
-http://iptvfree1.com:6969/live/Belmira/123456/339.ts
-#EXTINF:-1,Al:Super Sport 2 HD
-http://iptvfree1.com:6969/live/Belmira/123456/338.ts
-#EXTINF:-1,AL: Super Sport 1 HD
-http://iptvfree1.com:6969/live/Belmira/123456/337.ts
-#EXTINF:-1,AR: AD Sports 6 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4277.ts
-#EXTINF:-1,AR: AD Sports 5 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4278.ts
-#EXTINF:-1,AR: AD Sports 4 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4279.ts
-#EXTINF:-1,AR: AD Sports 3 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4280.ts
-#EXTINF:-1,AR: OSN Sports 1 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4645.ts
-#EXTINF:-1,AR: OSN Sports 2 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4644.ts
-#EXTINF:-1,AR: OSN Sports 3 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4643.ts
-#EXTINF:-1,AR: OSN Sports 4 HD
-http://iptvfree1.com:6969/live/Belmira/123456/4642.ts
-#EXTINF:-1,AR: Bein sport 1 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18065.ts
-#EXTINF:-1,AR: Bein sport 10 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18064.ts
-#EXTINF:-1,AR: Bein sport 11 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18063.ts
-#EXTINF:-1,AR: Bein sport 12 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18062.ts
-#EXTINF:-1,AR: Bein sport 13 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18061.ts
-#EXTINF:-1,AR: Bein sport 2 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18060.ts
-#EXTINF:-1,AR: Bein sport 3 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18059.ts
-#EXTINF:-1,AR: Bein sport 4 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18058.ts
-#EXTINF:-1,AR: Bein sport 5 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18057.ts
-#EXTINF:-1,AR: Bein sport 6 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18056.ts
-#EXTINF:-1,AR: Bein sport 7 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18055.ts
-#EXTINF:-1,AR: Bein sport 8 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18054.ts
-#EXTINF:-1,AR: Bein sport 9 FHD
-http://iptvfree1.com:6969/live/Belmira/123456/18053.ts
-#EXTINF:-1,AR: Beout Q Sport 1 HD
-http://iptvfree1.com:6969/live/Belmira/123456/18907.ts
-#EXTINF:-1,AR: Beout Q Sport 2 HD
-http://iptvfree1.com:6969/live/Belmira/123456/18906.ts
-#EXTINF:-1,AR: Beout Q Sport 3 HD
-http://iptvfree1.com:6969/live/Belmira/123456/18905.ts
-#EXTINF:-1,AR: Beout Q Sport 4 HD
-http://iptvfree1.com:6969/live/Belmira/123456/18904.ts
-#EXTINF:-1,AR: Beout Q Sport 5 HD
-http://iptvfree1.com:6969/live/Belmira/123456/18903.ts
-#EXTINF:-1,VIP AR: OSN FX HD
-http://iptvfree1.com:6969/live/Belmira/123456/6172.ts
-#EXTINF:-1,VIP AR: OSN Sports 1
-http://iptvfree1.com:6969/live/Belmira/123456/6005.ts
-#EXTINF:-1,VIP AR: OSN Sports 2
-http://iptvfree1.com:6969/live/Belmira/123456/6006.ts
-#EXTINF:-1,VIP AR: OSN Sports 3
-http://iptvfree1.com:6969/live/Belmira/123456/6007.ts
-#EXTINF:-1,VIP AR: OSN Sports 4
-http://iptvfree1.com:6969/live/Belmira/123456/6008.ts
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://iptvfree1.com:6969/live/Belmira/123456/3605.ts
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://iptvfree1.com:6969/live/Belmira/123456/3604.ts
-#EXTINF:-1,EX-YU: Sport Klub 3
-http://iptvfree1.com:6969/live/Belmira/123456/3603.ts
-#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
-http://iptvfree1.com:6969/live/Belmira/123456/3602.ts
-#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
-http://iptvfree1.com:6969/live/Belmira/123456/3601.ts
-#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
-http://iptvfree1.com:6969/live/Belmira/123456/3600.ts
-
-#EXTINF:-1,AR | ON TV SPORT
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2154.ts
-#EXTINF:-1,AR | ON TV SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3927.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 1
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1286.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3883.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1859.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/31674.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/25516.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 5 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/25514.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 3 HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/25517.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 4 HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/25515.ts
-#EXTINF:-1,AR | ABU DHABI SPORTS 5 HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/25513.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP W 1080 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37780.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP X 1080 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37779.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP Y 1080 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37778.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP Z 1080 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37777.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP X 4K HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37775.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP Y 4K HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37774.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP Z 4K HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37773.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP W 4K HEVC
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37776.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP W 720 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37772.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP X 720 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37771.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP Y 720 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37770.ts
-#EXTINF:-1,AR | BEIN MAX WORLDCUP Z 720 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37769.ts
-#EXTINF:-1,AR |  BEIN SPORT MAX 1 HD WORLD-CUP
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28527.ts
-#EXTINF:-1,AR |  BEIN SPORT MAX 2 HD WORLD-CUP
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28526.ts
-#EXTINF:-1,AR | BEIN SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/961.ts
-#EXTINF:-1,AR | BEIN SPORT NEWS HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/960.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34528.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34642.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34643.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34644.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34645.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34646.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34647.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34648.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34649.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34650.ts
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34651.ts
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/34652.ts
-#EXTINF:-1,AR | BEIN SPORT 1 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17813.ts
-#EXTINF:-1,AR | BEIN SPORT 2 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17811.ts
-#EXTINF:-1,AR | BEIN SPORT 3 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17809.ts
-#EXTINF:-1,AR | BEIN SPORT 4 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17807.ts
-#EXTINF:-1,AR | BEIN SPORT 5 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17805.ts
-#EXTINF:-1,AR | BEIN SPORT 6 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17803.ts
-#EXTINF:-1,AR | BEIN SPORT 7 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17801.ts
-#EXTINF:-1,AR | BEIN SPORT 8 (4K)
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17799.ts
-#EXTINF:-1,AR | BEIN  SPORT NEWS HD³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28572.ts
-#EXTINF:-1,AR | BEIN  SPORT HD³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28573.ts
-#EXTINF:-1,##### BEIN | SPORT BACKUP #####
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/27096.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD1³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28571.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD2³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28570.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD3³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28569.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD4³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28568.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD5³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28567.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD6³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28566.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD7³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28565.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD8³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28564.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD9³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28562.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD10³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28563.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD11³ EN
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28561.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD12³ EN
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28560.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD13³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28559.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD14³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28558.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD15³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28557.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD16³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28556.ts
-#EXTINF:-1,AR | BEIN  SPORTS HD17³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28555.ts
-#EXTINF:-1,AR | BEIN  SPORT NBA HD³
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/28554.ts
-#EXTINF:-1,NL | FOX SPORT 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2956.ts
-#EXTINF:-1,NL | FOX SPORT 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/776.ts
-#EXTINF:-1,NL | FOX SPORT 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/777.ts
-#EXTINF:-1,NL | FOX SPORT 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/778.ts
-#EXTINF:-1,NL | FOX SPORT 5 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/779.ts
-#EXTINF:-1,NL | FOX SPORT 6 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/780.ts
-#EXTINF:-1,NL | ZIGGO SPORT VOETBAL HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/771.ts
-#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/770.ts
-#EXTINF:-1,NL | ZIGGO SPORT RACING HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1450.ts
-#EXTINF:-1,NL | ZIGGO SPORT GOLF HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/769.ts
-#EXTINF:-1,NL | ZIGGO SPORT EXTRA 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2666.ts
-#EXTINF:-1,NL | ZIGGO SPORT EXTRA 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2667.ts
-#EXTINF:-1,NL | EXTREME SPORT
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3346.ts
-#EXTINF:-1,NL | MOTOR SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3351.ts
-#EXTINF:-1,NL | EUROSPORT 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/768.ts
-#EXTINF:-1,NL | EUROSPORT 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2646.ts
-#EXTINF:-1,NL | ZIGGO SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3336.ts
-#EXTINF:-1,NL | EXTREME SPORTS CHANNEL
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15521.ts
-#EXTINF:-1,UK | SKY SPORTS FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18045.ts
-#EXTINF:-1,UK | SKY SPORTS ARENA FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18044.ts
-#EXTINF:-1,UK | SKY SPORTS CRICKET FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18043.ts
-#EXTINF:-1,UK | SKY SPORTS F1 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18042.ts
-#EXTINF:-1,UK | SKY SPORTS FOOTBALL FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18041.ts
-#EXTINF:-1,UK | SKY SPORTS GOLF FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18040.ts
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18039.ts
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18038.ts
-#EXTINF:-1,UK | SKY SPORTS MIX HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18037.ts
-#EXTINF:-1,UK | SKY SPORTS NEWS HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18036.ts
-#EXTINF:-1,UK | BT SPORTS ESPN HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18034.ts
-#EXTINF:-1,UK | BT SPORTS 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/35991.ts
-#EXTINF:-1,UK | BT SPORTS 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/35992.ts
-#EXTINF:-1,UK | BT SPORTS 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/35993.ts
-#EXTINF:-1,UK | BT SPORTS 1 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18033.ts
-#EXTINF:-1,UK | BT SPORTS 2 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18032.ts
-#EXTINF:-1,UK | BT SPORTS 3 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18031.ts
-#EXTINF:-1,UK | MUTV HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18027.ts
-#EXTINF:-1,UK | CHELSEA TV HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18025.ts
-#EXTINF:-1,UK | EIR SPORTS 1 ( NEW )
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17912.ts
-#EXTINF:-1,UK | EIR SPORTS 2 ( NEW )
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/17911.ts
-#EXTINF:-1,UK | EUROSPORTS 1 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18029.ts
-#EXTINF:-1,UK | EUROSPORTS 2 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18028.ts
-#EXTINF:-1,UK | BOXNATION FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18035.ts
-#EXTINF:-1,UK | PREMIER SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18026.ts
-#EXTINF:-1,UK | RACING UK HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18030.ts
-#EXTINF:-1,FR | SFR SPORT 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2912.ts
-#EXTINF:-1,FR | SFR SPORT 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2913.ts
-#EXTINF:-1,FR | SFR SPORT 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2914.ts
-#EXTINF:-1,FR | SFR SPORT 5 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/2915.ts
-#EXTINF:-1,FR | BEIN SPORT 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1419.ts
-#EXTINF:-1,FR | BEIN SPORT 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1420.ts
-#EXTINF:-1,FR | BEIN SPORT 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1421.ts
-#EXTINF:-1,FR | EUROSPORT 1HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1418.ts
-#EXTINF:-1,FR | EUROSPORT 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/144.ts
-#EXTINF:-1,FR | FOOT 24 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/127.ts
-#EXTINF:-1,FR | INFOSPORT+ HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/142.ts
-#EXTINF:-1,FR | EQUIDIA LIVE HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/112.ts
-#EXTINF:-1,FR | EXTREME SPORTS HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3023.ts
-#EXTINF:-1,FR | EQUIDIA HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/109.ts
-#EXTINF:-1,FR | BFM SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19812.ts
-#EXTINF:-1,FR | L EQUIPE21 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/1395.ts
-#EXTINF:-1,FR | GOLF CHANNEL HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3025.ts
-#EXTINF:-1,FR | GOLF+ HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3026.ts
-#EXTINF:-1,FR | AB MOTEUR HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19810.ts
-#EXTINF:-1,FR | MOTORSPORT TV HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19811.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19820.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 5 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19819.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 6 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19818.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 7 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19817.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 8 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19816.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 9 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19815.ts
-#EXTINF:-1,FR | BEIN SPORT MAX 10 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/19814.ts
-#EXTINF:-1,FR FHD | SFR SPORT1 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4217.ts
-#EXTINF:-1,FR FHD | SFR SPORT2 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4216.ts
-#EXTINF:-1,FR FHD | SFR SPORT3 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4215.ts
-#EXTINF:-1,FR FHD | SFR SPORT5 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4214.ts
-#EXTINF:-1,FR FHD | BEINSPORT1 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4211.ts
-#EXTINF:-1,FR FHD | BEINSPORT2 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4210.ts
-#EXTINF:-1,FR FHD | BEINSPORT3 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4209.ts
-#EXTINF:-1,FR FHD | INFOSPORT FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4207.ts
-#EXTINF:-1,FR FHD | EUROSPORT1 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4213.ts
-#EXTINF:-1,FR FHD | EUROSPORT2 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4212.ts
-#EXTINF:-1,FR FHD | EQUIDIA LIFE FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4202.ts
-#EXTINF:-1,FR FHD | EQUIDIA LIVE FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4201.ts
-#EXTINF:-1,FR FHD | MOTORSPORT TV FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4208.ts
-#EXTINF:-1,FR FHD | GOLF FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4205.ts
-#EXTINF:-1,FR FHD | GOLF CHANNEL FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4204.ts
-#EXTINF:-1,FR FHD | EXTREME SPORTS FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4203.ts
-#EXTINF:-1,FR FHD | L'EQUIPE21 FHD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/4206.ts
-#EXTINF:-1,BE | PLAY SPORTS 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18454.ts
-#EXTINF:-1,BE | PLAY SPORTS 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18453.ts
-#EXTINF:-1,BE | PLAY SPORTS 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18452.ts
-#EXTINF:-1,BE | PLAY SPORTS 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18451.ts
-#EXTINF:-1,BE | PLAY SPORTS 5 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/18450.ts
-#EXTINF:-1,TR | BEIN SPORTS 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3362.ts
-#EXTINF:-1,TR | BEIN SPORTS 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3361.ts
-#EXTINF:-1,TR | BEIN SPORTS 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3360.ts
-#EXTINF:-1,TR | BEIN SPORTS 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3359.ts
-#EXTINF:-1,TR | BEIN SPORT 1 HD²
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3557.ts
-#EXTINF:-1,TR | BEIN SPORT 2 HD²
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3558.ts
-#EXTINF:-1,TR | BEIN SPORT 3 HD²
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3559.ts
-#EXTINF:-1,TR | BEIN SPORT 4 HD²
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3560.ts
-#EXTINF:-1,TR | BEIN MAX 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3825.ts
-#EXTINF:-1,TR | BEIN MAX 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3826.ts
-#EXTINF:-1,TR | SMART SPOR HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3354.ts
-#EXTINF:-1,TR | SPORTS TV
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3466.ts
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3358.ts
-#EXTINF:-1,TR | TIVIBU SPOR 2 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3357.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3356.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3355.ts
-#EXTINF:-1,TR | BEIN SPORTS HABER HD PLUS
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3468.ts
-#EXTINF:-1,TR | TRT SPOR HD PLUS
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3467.ts
-#EXTINF:-1,TR | TAY TV HD PLUS
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3464.ts
-#EXTINF:-1,TR | A SPOR HD PLUS
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3469.ts
-#EXTINF:-1,TR | FB TV HD PLUS
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/3465.ts
-#EXTINF:-1,TR | BJK TV
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37236.ts
-#EXTINF:-1,TR | GS TV
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/37235.ts
-#EXTINF:-1,PL | POLSAT SPORT EXTRA
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/27648.ts
-#EXTINF:-1,PL | POLSAT SPORT EXTRA HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/27630.ts
-#EXTINF:-1,PL | POLSAT SPORT FIGHT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/27641.ts
-#EXTINF:-1,PL | POLSAT SPORT HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/27614.ts
-#EXTINF:-1,PL | POLSAT SPORT NEWS HD
-http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/27622.ts
-
-#EXTINF:-1 tvg-ID="dt.377" tvg-name="beIN SPORTS HD 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS HD 1
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/135.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 HD 265.HVEC" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS 1 HD 265.HVEC
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/2785.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS SD 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS SD 1
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8568.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 1 Mobile" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS HD 1 Mobile
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8238.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 1 1080i" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS HD 1 1080i
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8570.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 4K UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS 1 4K UHD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 1 720p" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD1_yeni.png" group-title="SPOR",beIN SPORTS HD 1 720p
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8569.ts
-#EXTINF:-1 tvg-ID="dt.378" tvg-name="beIN SPORTS HD 2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD2_yeni.png" group-title="SPOR",beIN SPORTS HD 2
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/134.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS SD 2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD2_yeni.png" group-title="SPOR",beIN SPORTS SD 2
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8983.ts
-#EXTINF:-1 tvg-ID="dt.379" tvg-name="beIN SPORTS HD 3" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD3_yeni.png" group-title="SPOR",beIN SPORTS HD 3
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/133.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS SD 3" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD3_yeni.png" group-title="SPOR",beIN SPORTS SD 3
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8984.ts
-#EXTINF:-1 tvg-ID="dt.380" tvg-name="beIN SPORTS HD 4" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_sports_HD4_yeni.png" group-title="SPOR",beIN SPORTS HD 4
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/132.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS MAX HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sportsMAX_1_250x150_.png" group-title="SPOR",beIN SPORTS MAX HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8153.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS MAX2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/sportsmax2Artboard%20250x150.png" group-title="SPOR",beIN SPORTS MAX2 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HABER HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beinsports_haber_250X150.png" group-title="SPOR",beIN SPORTS HABER HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/8576.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tivibu  Spor 1 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/Tivibu_Spor_hd.png" group-title="SPOR",Tivibu  Spor 1 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/87.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tivibu Spor 2 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/Tivibu_Spor2_hd.png" group-title="SPOR",Tivibu Spor 2 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/88.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tivibu Spor  3 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/Tivibu_Spor3_hd.png" group-title="SPOR",Tivibu Spor  3 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tivibu Spor 4 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/Tivibu_Spor4_hd.png" group-title="SPOR",Tivibu Spor 4 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tivibu Spor  5 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu-spor-5-hd.png" group-title="SPOR",Tivibu Spor  5 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/9765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="D-Smart SPOR 1 HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f97325cfef0b75f4723fa0" group-title="SPOR",D-Smart SPOR 1 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/85.ts
-#EXTINF:-1 tvg-ID="" tvg-name="S Sport  HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8e8" group-title="SPOR",S Sport  HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/86.ts
-#EXTINF:-1 tvg-ID="" tvg-name="D-Smart NBA TV HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7f2" group-title="SPOR",D-Smart NBA TV HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/89.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Filbox EUROSPORT 1 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/eurosports1_hd.png" group-title="SPOR",Filbox EUROSPORT 1 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="D-Smart EUROSPORT 2 HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/eurosports2_hd.png" group-title="SPOR",D-Smart EUROSPORT 2 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/103.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/eurosports1_hd.png" group-title="",EUROSPORT 1
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/9229.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/eurosports2_hd.png" group-title="",EUROSPORT 2
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/9230.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS TV-HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/sports_tv.png" group-title="",SPORTS TV-HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/9236.ts
-#EXTINF:-1 tvg-ID="dt.56" tvg-name="TRT 3 - TRT Spor" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da860" group-title="SPOR",TRT 3 - TRT Spor
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/61.ts
-#EXTINF:-1 tvg-ID="dt.389" tvg-name="TRT Spor HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da860" group-title="SPOR",TRT Spor HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/60.ts
-#EXTINF:-1 tvg-ID="dt.388" tvg-name="A Spor HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/591d9004d6f43975c9cf23bf" group-title="SPOR",A Spor HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/95.ts
-#EXTINF:-1 tvg-ID="dt.83" tvg-name="Sports TV" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da884" group-title="SPOR",Sports TV
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1834.ts
-#EXTINF:-1 tvg-ID="dt.75" tvg-name="GS TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/gstv_250x150.png" group-title="SPOR",GS TV
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1840.ts
-#EXTINF:-1 tvg-ID="dt.376" tvg-name="FB TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/fbtv_250x150.png" group-title="SPOR",FB TV HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1835.ts
-#EXTINF:-1 tvg-ID="" tvg-name="S SPORT" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/s-sport-hd.png" group-title="",S SPORT
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/9234.ts
-#EXTINF:-1 tvg-ID="dt.74" tvg-name="BJK TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bjk_tv__250x150.png" group-title="SPOR",BJK TV
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/2775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BURSASPOR TV" tvg-logo="http://www.frekansi.com/files/image/bs_tv_frekansi.png" group-title="SPOR",BURSASPOR TV
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/9249.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AL | TRING SPORT NEWS HD" tvg-logo="" group-title="ALBANIA",AL | TRING SPORT NEWS HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/747.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AL | SUPER SPORT  1" tvg-logo="" group-title="ALBANIA",AL | SUPER SPORT  1
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/748.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AL | SUPER SPORT  2" tvg-logo="" group-title="ALBANIA",AL | SUPER SPORT  2
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/749.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AL | SUPER SPORT  3" tvg-logo="" group-title="ALBANIA",AL | SUPER SPORT  3
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/750.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AL | SUPER SPORT  4" tvg-logo="" group-title="ALBANIA",AL | SUPER SPORT  4
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/751.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | PremiumEuroSport1" tvg-logo="" group-title="ITALIAN",IT | PremiumEuroSport1
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/3011.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | PremiumEuroSport2" tvg-logo="" group-title="ITALIAN",IT | PremiumEuroSport2
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/3012.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | PremiumSport" tvg-logo="" group-title="ITALIAN",IT | PremiumSport
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | Rai sport" tvg-logo="" group-title="ITALIAN",IT | Rai sport
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1391.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | Sky Sport 1 HD" tvg-logo="" group-title="ITALIAN",IT | Sky Sport 1 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1336.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | Sky Sport 2 HD" tvg-logo="" group-title="ITALIAN",IT | Sky Sport 2 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1335.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | Sky Sport 3 HD" tvg-logo="" group-title="ITALIAN",IT | Sky Sport 3 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1334.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | Sky Sport F1 HD" tvg-logo="" group-title="ITALIAN",IT | Sky Sport F1 HD
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1332.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | SkySuperCalcio" tvg-logo="" group-title="ITALIAN",IT | SkySuperCalcio
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/3023.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT | SkyTG24" tvg-logo="" group-title="ITALIAN",IT | SkyTG24
-http://devcon101.com:8080/live/ibrahim1/1ibrahim/1319.ts
+#EXTINF:-1,BEIN SPORTS News (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8300.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6959.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6960.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6961.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6962.ts
+#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6963.ts
+#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6964.ts
+#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6965.ts
+#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6966.ts
+#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6967.ts
+#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/6968.ts
+#EXTINF:-1,BEIN SPORTS 11 (English)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8299.ts
+#EXTINF:-1,BEIN SPORTS 12 (English)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8298.ts
+#EXTINF:-1,BEIN SPORTS 13 (English)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8297.ts
+#EXTINF:-1,BEIN SPORTS 14 (France)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8296.ts
+#EXTINF:-1,BEIN SPORTS 15 (France)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8295.ts
+#EXTINF:-1,BEIN SPORTS 16 (France)
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8294.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8301.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8302.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8303.ts
+#EXTINF:-1,BEIN SPORTS Max 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15383.ts
+#EXTINF:-1,BEIN SPORTS Max 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15384.ts
+#EXTINF:-1,BEIN SPORTS Max 3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15385.ts
+#EXTINF:-1,FR: BEIN SPORTS Max 4
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8321.ts
+#EXTINF:-1,FR: BEIN SPORTS Max 5
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8320.ts
+#EXTINF:-1,FR: BEIN SPORTS Max 6
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8319.ts
+#EXTINF:-1,FR: BEIN SPORTS Max 7
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8318.ts
+#EXTINF:-1,FR: BEIN SPORTS Max 8
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8317.ts
+#EXTINF:-1,SP: HISTORIA
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7676.ts
+#EXTINF:-1,SP: Viajar HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/12542.ts
+#EXTINF:-1,SP: Discovery Channel
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7620.ts
+#EXTINF:-1,SP: National Geo HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13706.ts
+#EXTINF:-1,SP: National Geo
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7671.ts
+#EXTINF:-1,SP: National Geo Wild HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13707.ts
+#EXTINF:-1,SP: National Geo Wild
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7672.ts
+#EXTINF:-1,SP: Crime + Investigation
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13004.ts
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15427.ts
+#EXTINF:-1,====== CINE ======
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/12538.ts
+#EXTINF:-1,SP: M. ESTRENOS FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15414.ts
+#EXTINF:-1,SP: M.Estrenos
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7703.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15415.ts
+#EXTINF:-1,SP: M. Accion
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7698.ts
+#EXTINF:-1,SP: M. COMEDIA FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15416.ts
+#EXTINF:-1,SP: M. Comedia
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7697.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15417.ts
+#EXTINF:-1,SP: M. Dcine
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7652.ts
+#EXTINF:-1,SP: M. XTRA FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15418.ts
+#EXTINF:-1,SP: M. XTRA
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7649.ts
+#EXTINF:-1,SP: M. SERIES HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15419.ts
+#EXTINF:-1,SP: M. Series
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7691.ts
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15420.ts
+#EXTINF:-1,SP: M. Series Xtra
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7690.ts
+#EXTINF:-1,SP: Comedy Central HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13710.ts
+#EXTINF:-1,SP: Comedy Central.
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7687.ts
+#EXTINF:-1,SP: Hollywood FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7689.ts
+#EXTINF:-1,SP: FOX FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7643.ts
+#EXTINF:-1,SP: Fox.
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7678.ts
+#EXTINF:-1,SP: Fox Life HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13711.ts
+#EXTINF:-1,SP: FOX LIFE
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7677.ts
+#EXTINF:-1,SP: AMC HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15421.ts
+#EXTINF:-1,SP: AXN HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7653.ts
+#EXTINF:-1,SP: AXN
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7709.ts
+#EXTINF:-1,SP: AXN WHITE HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7708.ts
+#EXTINF:-1,SP: SYFY HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7594.ts
+#EXTINF:-1,SP: SYFY
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7666.ts
+#EXTINF:-1,SP: TCM HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15423.ts
+#EXTINF:-1,SP: TCM
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7665.ts
+#EXTINF:-1,SP: TNT
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7663.ts
+#EXTINF:-1,SP: TNT HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15422.ts
+#EXTINF:-1,SP: CALLE 13 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7705.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7716.ts
+#EXTINF:-1,====== Taquilla ======
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/12540.ts
+#EXTINF:-1,SP: Taquilla 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7612.ts
+#EXTINF:-1,SP: Taquilla 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7610.ts
+#EXTINF:-1,SP: Taquilla 3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7609.ts
+#EXTINF:-1,SP: Taquilla 4
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7608.ts
+#EXTINF:-1,SP: Taquilla 5
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7607.ts
+#EXTINF:-1,SP: Taquilla 6
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7606.ts
+#EXTINF:-1,SP: Taquilla 7
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7605.ts
+#EXTINF:-1,SP: Taquilla 8
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7604.ts
+#EXTINF:-1,SP: Taquilla 9
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7603.ts
+#EXTINF:-1,SP: Taquilla 10
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7611.ts
+#EXTINF:-1,====== EXTRA ======
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15476.ts
+#EXTINF:-1,SP: TOROS HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15424.ts
+#EXTINF:-1,SP: Toros Tv
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7701.ts
+#EXTINF:-1,SP: Caza Y Pesca HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7688.ts
+#EXTINF:-1,SP: IBERALIA TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15425.ts
+#EXTINF:-1,====== DEPORTES ======
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/12541.ts
+#EXTINF:-1,SP:  M. MOTO GP
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15438.ts
+#EXTINF:-1,SP: M. MotoGp HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7616.ts
+#EXTINF:-1,SP: Canal+ Liga
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7715.ts
+#EXTINF:-1,SP: Gol TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7702.ts
+#EXTINF:-1,SP: M.  FUTBOL FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15433.ts
+#EXTINF:-1,SP: M. Futbol
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13008.ts
+#EXTINF:-1,SP: M. GOLF
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13010.ts
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15434.ts
+#EXTINF:-1,SP: M. Depotes 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13009.ts
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15435.ts
+#EXTINF:-1,SP: M. Deportes 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/12545.ts
+#EXTINF:-1,SP: Eurosport 1 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15439.ts
+#EXTINF:-1,SP: Eurosport 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/7680.ts
+#EXTINF:-1,SP: Eurosport 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15475.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15440.ts
+#EXTINF:-1,SP: BeIN Sports FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13279.ts
+#EXTINF:-1,SP: Bein LaLiga HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13709.ts
+#EXTINF:-1,SP: beIN La Liga
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/12497.ts
+#EXTINF:-1,SP: La Liga TV Bar
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13006.ts
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15429.ts
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15430.ts
+#EXTINF:-1,SP: LA LIGA HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15428.ts
+#EXTINF:-1,SP: LA LIGA
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15441.ts
+#EXTINF:-1,SP: LA LIGA TV 1 SD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15442.ts
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15443.ts
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15444.ts
+#EXTINF:-1,AR: 2M Monde
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9992.ts
+#EXTINF:-1,AR: Assadissa
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9998.ts
+#EXTINF:-1,AR: TAMAZIGHT
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9991.ts
+#EXTINF:-1,=====  ALGERIE  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13980.ts
+#EXTINF:-1,AR: A3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15747.ts
+#EXTINF:-1,AR: Al Fajr tv
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15754.ts
+#EXTINF:-1,AR: Al Magharibia Two
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15761.ts
+#EXTINF:-1,AR: Alnahar algeria
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9973.ts
+#EXTINF:-1,AR: Berbère Télévision
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15762.ts
+#EXTINF:-1,AR: Beur TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15763.ts
+#EXTINF:-1,AR: Canal Algerie
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15746.ts
+#EXTINF:-1,AR: Dzair News
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15759.ts
+#EXTINF:-1,AR: Dzair TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9990.ts
+#EXTINF:-1,AR: Samira TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15749.ts
+#EXTINF:-1,AR: Numidia News TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15757.ts
+#EXTINF:-1,AR: Magharibia 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15760.ts
+#EXTINF:-1,AR: TV Coran Dz5
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15755.ts
+#EXTINF:-1,AR: KBC Dz
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15753.ts
+#EXTINF:-1,AR: KBC Algeria
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8786.ts
+#EXTINF:-1,AR: Echourouk tv
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9988.ts
+#EXTINF:-1,AR: Ennahar Laki
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15750.ts
+#EXTINF:-1,AR: Echourouk News
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9989.ts
+#EXTINF:-1,AR: ENTV Algerie
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15756.ts
+#EXTINF:-1,AR: Ennahar TV Algerie
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8795.ts
+#EXTINF:-1,AR: El Heddaf TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15751.ts
+#EXTINF:-1,AR: TV Tamazight
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15748.ts
+#EXTINF:-1,AR: Echorouk Benna
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15752.ts
+#EXTINF:-1,AR: EL Djazairia
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/15764.ts
+#EXTINF:-1,=====  TUNISIE =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13981.ts
+#EXTINF:-1,AR: Tunisia National 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9986.ts
+#EXTINF:-1,AR: Tunisia National 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9987.ts
+#EXTINF:-1,AR: NESSMA TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9994.ts
+#EXTINF:-1,AR: Zaytoona
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9995.ts
+#EXTINF:-1,=====  LEBANON =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13982.ts
+#EXTINF:-1,AR: Future TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9999.ts
+#EXTINF:-1,AR: Panorama Film
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9930.ts
+#EXTINF:-1,AR: LBC Lebanon
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/16865.ts
+#EXTINF:-1,AR: MTV Lebananon
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/16860.ts
+#EXTINF:-1,AR: OTV Lebanon
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/16864.ts
+#EXTINF:-1,AR: Bein FataFeat HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13601.ts
+#EXTINF:-1,=====  EGYPTE =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13983.ts
+#EXTINF:-1,AR: Al Nahar Al Youm
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9975.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9974.ts
+#EXTINF:-1,AR: Al Nahar TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9972.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9955.ts
+#EXTINF:-1,AR: ART Aflam 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9954.ts
+#EXTINF:-1,AR: ART CINEMA
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9956.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9958.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9959.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9979.ts
+#EXTINF:-1,AR: Cairo Drama
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9980.ts
+#EXTINF:-1,AR: CBC
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9968.ts
+#EXTINF:-1,AR: CBC Drama
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9970.ts
+#EXTINF:-1,AR: CBC Extra
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9971.ts
+#EXTINF:-1,AR: CBC Sofra
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9969.ts
+#EXTINF:-1,AR: Melody Classic
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8778.ts
+#EXTINF:-1,AR: Nile Sport
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8637.ts
+#EXTINF:-1,AR: Nile Cinema
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9951.ts
+#EXTINF:-1,AR: Nile Comedy
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9950.ts
+#EXTINF:-1,AR: Nile Culture
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9981.ts
+#EXTINF:-1,AR: Nile Drama
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9982.ts
+#EXTINF:-1,AR: Nile Life
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9949.ts
+#EXTINF:-1,AR: ALkahera Wal Nas 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8804.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9961.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9962.ts
+#EXTINF:-1,=====  ROTANA & MBC =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13984.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9932.ts
+#EXTINF:-1,AR: Rotana Khalijia
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9933.ts
+#EXTINF:-1,AR: Rotana Classic
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9935.ts
+#EXTINF:-1,AR: Rotana Clip
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9934.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9929.ts
+#EXTINF:-1,AR: Rotana Music
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9931.ts
+#EXTINF:-1,AR: MBC 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8642.ts
+#EXTINF:-1,AR: MBC 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8643.ts
+#EXTINF:-1,AR: MBC 3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9943.ts
+#EXTINF:-1,AR: MBC 4
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9944.ts
+#EXTINF:-1,AR: Mbc Action HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9941.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9946.ts
+#EXTINF:-1,AR: MBC DRAMA
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9945.ts
+#EXTINF:-1,AR: MBC MASR
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9957.ts
+#EXTINF:-1,AR: MBC MASR 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9948.ts
+#EXTINF:-1,AR: MBC MAX
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9947.ts
+#EXTINF:-1,AR: MBC Pro Sport 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8638.ts
+#EXTINF:-1,AR: MBC Pro Sport 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8639.ts
+#EXTINF:-1,AR: MBC Pro Sport 3 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8640.ts
+#EXTINF:-1,AR: MBC Pro Sport 4
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8641.ts
+#EXTINF:-1,=====  DUBAI =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13991.ts
+#EXTINF:-1,AR: Dubai
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10001.ts
+#EXTINF:-1,AR: Dubai Drama
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10005.ts
+#EXTINF:-1,AR: Dubai One
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10004.ts
+#EXTINF:-1,AR: Dubai Sama
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10002.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10006.ts
+#EXTINF:-1,AR:Dubai Sports 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9912.ts
+#EXTINF:-1,AR:Dubai Sports 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9913.ts
+#EXTINF:-1,AR: Dubai Sport 3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8635.ts
+#EXTINF:-1,AR: Dubai Racing
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8636.ts
+#EXTINF:-1,AR: Noor Dubai
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10003.ts
+#EXTINF:-1,=====  SAUDIA =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13985.ts
+#EXTINF:-1,AR: AD Sports 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8633.ts
+#EXTINF:-1,AR: AD Sports 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8634.ts
+#EXTINF:-1,AR: ZEE Aflam
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9967.ts
+#EXTINF:-1,AR: Zee Alwan
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/10000.ts
+#EXTINF:-1,AR: BeIN Movies 1 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13281.ts
+#EXTINF:-1,AR: BeIN Movies 2 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13282.ts
+#EXTINF:-1,AR: BeIN Movies 3 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13283.ts
+#EXTINF:-1,AR: OSN On Demand HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9937.ts
+#EXTINF:-1,OSN AD Sports 3 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14134.ts
+#EXTINF:-1,OSN AD Sports 4 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14135.ts
+#EXTINF:-1,OSN AD Sports 5 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14136.ts
+#EXTINF:-1,OSN AD Sports 6 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14137.ts
+#EXTINF:-1,OSN Al Safwa ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14133.ts
+#EXTINF:-1,OSN AL Yawm ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14138.ts
+#EXTINF:-1,OSN Animal Planet HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14139.ts
+#EXTINF:-1,OSN Box Office 1 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14140.ts
+#EXTINF:-1,OSN Box Office 2 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14141.ts
+#EXTINF:-1,OSN Box Office 3 HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14142.ts
+#EXTINF:-1,OSN Cinema 1 ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14143.ts
+#EXTINF:-1,OSN Cinema 2 ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14144.ts
+#EXTINF:-1,OSN Discovery Family HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14131.ts
+#EXTINF:-1,OSN Discovery HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14145.ts
+#EXTINF:-1,OSN Discovery IDX HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14130.ts
+#EXTINF:-1,OSN Discovery SC HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14146.ts
+#EXTINF:-1,OSN Disney Channel ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14147.ts
+#EXTINF:-1,OSN: WWE HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9151.ts
+#EXTINF:-1,OSN WWE HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14111.ts
+#EXTINF:-1,OSN Yahala Cinema HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14104.ts
+#EXTINF:-1,OSN Yahala Drama ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14105.ts
+#EXTINF:-1,OSN Yahala HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14106.ts
+#EXTINF:-1,OSN Yahala Shabab HD ARB
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/14107.ts
+#EXTINF:-1,FR : TF1 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8644.ts
+#EXTINF:-1,FR: France 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8261.ts
+#EXTINF:-1,FR: France 3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8260.ts
+#EXTINF:-1,FR: France 4 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8590.ts
+#EXTINF:-1,FR: France 5
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8591.ts
+#EXTINF:-1,FR: France O
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8592.ts
+#EXTINF:-1,FR: M6
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/2920.ts
+#EXTINF:-1,FR : 6TER
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8649.ts
+#EXTINF:-1,FR: 6Ter HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9425.ts
+#EXTINF:-1,FR: HD1 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8648.ts
+#EXTINF:-1,FR: Arte
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8593.ts
+#EXTINF:-1,FR: Paris Premiere
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8653.ts
+#EXTINF:-1,FR: TV-breizh HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8654.ts
+#EXTINF:-1,FR: RTS UN
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13073.ts
+#EXTINF:-1,FR: RTS DEUX
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13074.ts
+#EXTINF:-1,FR: I-Tele HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13078.ts
+#EXTINF:-1,=====  Cineèma   =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13609.ts
+#EXTINF:-1,FR: Action
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8667.ts
+#EXTINF:-1,FR: Ocs max
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9397.ts
+#EXTINF:-1,FR: Ocs Choc HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9398.ts
+#EXTINF:-1,FR: OCS City HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9450.ts
+#EXTINF:-1,FR: OCS Géants HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9451.ts
+#EXTINF:-1,FR: Canal +
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9444.ts
+#EXTINF:-1,FR: Canal   Cinema
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9419.ts
+#EXTINF:-1,FR: Canal   Family
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9418.ts
+#EXTINF:-1,FR: Canal Series
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9417.ts
+#EXTINF:-1,FR: CANAL  Décalé
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9454.ts
+#EXTINF:-1,FR: Canal  Family
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9445.ts
+#EXTINF:-1,FR: CINE   Famiz
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9448.ts
+#EXTINF:-1,FR: Cine  Classic
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9414.ts
+#EXTINF:-1,FR: CINE  Emotion
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9449.ts
+#EXTINF:-1,FR: CINE  FRISSON
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9446.ts
+#EXTINF:-1,FR: Cine  Premier
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9413.ts
+#EXTINF:-1,FR: Cine Fx
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9412.ts
+#EXTINF:-1,FR: Cine POLAR
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8665.ts
+#EXTINF:-1,FR : Cine Premiere
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8668.ts
+#EXTINF:-1,FR: Serie club
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9393.ts
+#EXTINF:-1,FR: PARAMOUNT
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8664.ts
+#EXTINF:-1,FR: COMEDIE+ HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8662.ts
+#EXTINF:-1,FR: COMEDIE
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9447.ts
+#EXTINF:-1,FR : Syfy
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8646.ts
+#EXTINF:-1,FR : Serie Club
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8655.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9455.ts
+#EXTINF:-1,FR: A la Carte 2
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9456.ts
+#EXTINF:-1,FR: A la Carte 3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9457.ts
+#EXTINF:-1,FR: A la Carte 4
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9458.ts
+#EXTINF:-1,FR: A la Carte 5
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9459.ts
+#EXTINF:-1,FR: A la Carte 6
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9460.ts
+#EXTINF:-1,FR: A la Carte 7
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9461.ts
+#EXTINF:-1,FR: A la Carte 9
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9463.ts
+#EXTINF:-1,FR: A la Carte 10
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9464.ts
+#EXTINF:-1,=====  Divertissement  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13610.ts
+#EXTINF:-1,FR: AB1_HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8658.ts
+#EXTINF:-1,FR: E! Entertainment
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9453.ts
+#EXTINF:-1,FR : Tmc
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8666.ts
+#EXTINF:-1,FR: NT1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13076.ts
+#EXTINF:-1,FR : NT1
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8650.ts
+#EXTINF:-1,FR: Téva HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9428.ts
+#EXTINF:-1,FR : W9
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8645.ts
+#EXTINF:-1,FR : RTL9
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8647.ts
+#EXTINF:-1,FR : NRJ12
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8651.ts
+#EXTINF:-1,FR: NRJ 12
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9422.ts
+#EXTINF:-1,FR : D8
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8660.ts
+#EXTINF:-1,FR : D17
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8661.ts
+#EXTINF:-1,FR : CHERIE 25 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8656.ts
+#EXTINF:-1,FR : AB3
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8659.ts
+#EXTINF:-1,FR : 13eme Rue
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8652.ts
+#EXTINF:-1,=====  Sport FR  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13611.ts
+#EXTINF:-1,FR: Canal+  Sport
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9416.ts
+#EXTINF:-1,FR: Eurosport
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9407.ts
+#EXTINF:-1,FR: Eurosport 2 FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9406.ts
+#EXTINF:-1,FR: Foot+24
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9405.ts
+#EXTINF:-1,FR: SFR Sport 1 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13053.ts
+#EXTINF:-1,FR: SFR Sport 2 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13054.ts
+#EXTINF:-1,FR: SFR Sport 3 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13719.ts
+#EXTINF:-1,FR: Equida Live
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13703.ts
+#EXTINF:-1,FR: Infosport
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9404.ts
+#EXTINF:-1,FR: CHASSE & PECHE
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9452.ts
+#EXTINF:-1,=====  Culture  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13612.ts
+#EXTINF:-1,FR: Discovery
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9411.ts
+#EXTINF:-1,FR: Discovery science
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9410.ts
+#EXTINF:-1,FR: National geo wild
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9400.ts
+#EXTINF:-1,FR: National geographic
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9399.ts
+#EXTINF:-1,FR: Planete+ CI
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9395.ts
+#EXTINF:-1,FR: Science et vie
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9394.ts
+#EXTINF:-1,FR: Science&Vie TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9442.ts
+#EXTINF:-1,FR: Histoire
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9426.ts
+#EXTINF:-1,FR: Animaux
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9420.ts
+#EXTINF:-1,FR: RMC DECOUVERTE
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9440.ts
+#EXTINF:-1,FR: Toute l'histoire
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9427.ts
+#EXTINF:-1,FR: USHUAIA TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9441.ts
+#EXTINF:-1,=====  Musique  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13613.ts
+#EXTINF:-1,FR: M6 Music
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9429.ts
+#EXTINF:-1,=====  Enfants  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13614.ts
+#EXTINF:-1,FR: BOOMERANG
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9437.ts
+#EXTINF:-1,FR: Cartoon Network
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9415.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9435.ts
+#EXTINF:-1,FR: DISNEY CHANNEL  FHD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9436.ts
+#EXTINF:-1,FR: Disney Cinema
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9430.ts
+#EXTINF:-1,FR: Disney junior
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9409.ts
+#EXTINF:-1,FR: MANGA
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9434.ts
+#EXTINF:-1,FR: Mangas
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9401.ts
+#EXTINF:-1,FR: TELETOON + HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9431.ts
+#EXTINF:-1,FR: GULLI
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9433.ts
+#EXTINF:-1,=====  Information  =====
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/13615.ts
+#EXTINF:-1,FR: Cherie 25
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9421.ts
+#EXTINF:-1,FR: BFM TV HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9438.ts
+#EXTINF:-1,FR: Euronews
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9408.ts
+#EXTINF:-1,FR: L'EQUIPE 21 HD
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9465.ts
+#EXTINF:-1,FR: LCI
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9439.ts
+#EXTINF:-1,FR: PIWI+
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/9432.ts
+#EXTINF:-1,FR:  Enorme TV
+http://tvlatin.ddns.net:6500/live/gennaro/vassallo/8657.ts
